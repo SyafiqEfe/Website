@@ -174,11 +174,7 @@ body {
 }
 
 .about .row .about-img img {
-  width: 100%;
-  -webkit-mask-image: url('../img/menu/splash.svg');
-  -webkit-mask-size: 50%;
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
+  width: 90%;
 }
 
 .about .row .content {
